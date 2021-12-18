@@ -10,7 +10,7 @@ Data –
 	The initial dataset I started with was over 1,000, but I’ve cut down to about 600 after making cleaning and EDA. A few features to highlight was to include the budget – more budget generally means better actors, directors, and stage setting, runtime – more runtime means better storyline with clear climax and resolutions, and season of the year – releasing a movie based on what season of the year really do have an impact on bringing revenues. Blockbuster movies debut generally summer and winter. 
 
 Algorithms- 
-	Selected subsets of features against worldwide total gross to see the relationship. After making the initial model, I validated on test data to predict how much revenue it can bring.
+	Selected subsets of features against worldwide total gross to see the relationship. After making the initial model, I validated on the test data to predict how much revenue it can bring.
 
 Tools – 
 	Numpy and Pandas for data manipulations. Scikit-learn for modeling. Seaborn for plotting and PowerPoint to present to the class.
