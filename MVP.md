@@ -1,6 +1,6 @@
 The goal of this project was to determine which factors are most important in bringing the movie's revenues, and how each factor might contribute differently in driving the film's revenue. 
 
-To start this project, I scrapped the data from boxofficemojo.com w/ following columns - title, domestic total gross, int'l total gross, worldwide total gross, opening domestic, budget, runtime, and release date. 
+To start this project, I scrapped the data from boxofficemojo.com w/ the following columns - title, domestic total gross, int'l total gross, worldwide total gross, opening domestic, budget, runtime, and release date. 
 By looking at the pairplot for the movie data, I could analyze how some factors can predict a movie's sucess measured by worldwide total gross. To explore the relationships, I could start compare movie budget vs domestic gross.
 
 
