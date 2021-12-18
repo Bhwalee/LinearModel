@@ -1,7 +1,7 @@
 Predicting what features determine a movie’s success
 
 Abstract – 
-	For this project, I wanted to find out what features have impact making a movie successful by predicting total worldwide gross using linear regression. Some features I’ve added were – budget, opening, runtime, domestic opening, rating, total # of theaters, and genres. Data I used was from BOXOFFICEMOJO.com and scrapped all-time best movies. Finding out which features have the most impact in making most gross revenue. After refining and adjusting features, I built linear regression model and compared to different models with different features to show how they are related and affect movie’s success.
+	For this project, I wanted to find out what features have impact making a movie successful by predicting total worldwide gross using linear regression. Some features I’ve added were – budget, opening, runtime, domestic opening, rating, total # of theaters, and genres. Data I used was from BOXOFFICEMOJO.com and scrapped all-time best movies. Finding out which features have the most impact in making most gross revenue. After refining and adjusting the features, I built a linear regression model and compared to different models with different features to show how they are related and affect movie’s success.
 
 Design – 
 	The data was provided from BOXOFFICEMOJO.com and used classified features based on movie’s success. There are many things that can make a movie successful, but I’ve cut down to only three features – budget, runtime, and season. I would gather data, make a model based on selected features, make predictions on those features, and draw a conclusion on how and which features have the most impact making a movie successful. 
